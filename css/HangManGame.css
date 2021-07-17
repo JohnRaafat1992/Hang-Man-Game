@@ -73,11 +73,11 @@ hr {
     flex: 1;
     background-color: #949494;
     padding: 10px;
-    height: 270px;
+    height: 260px;
 }
 .hangman-draw .the-draw {
     width: 60px;
-    height: 250px;
+    height: 240px;
     border-bottom: 4px solid #222;
     position: relative;
     margin: auto;
