@@ -3,6 +3,11 @@
 }
 body {
     font-family: tahoma,arial;
+    margin: 0;
+    margin-top: -10px;
+      padding: 0;
+      background: #00000024;
+      overflow: hidden;
 }
 .container {
     margin: 20px auto;
@@ -402,10 +407,7 @@ min-height: 104px;
 }
 
 body {
-  margin: 0;
-  padding: 0;
-  background: #00000024;
-  overflow: hidden; }
+   }
 
 .pyro > .before, .pyro > .after {
   position: absolute;
