@@ -213,7 +213,7 @@ function winGame() {
 	WinDiv.className = 'pyro';
 
 	// create text to div
-	let WinText = document.createTextNode(` Congratulation , You Win The Word Is ${randomValueValue}`);
+	let WinText = document.createTextNode(` Congratulation , You Win `);
 
 	// add text to div
 	WinDiv.appendChild(WinText);
